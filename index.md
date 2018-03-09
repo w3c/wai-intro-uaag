@@ -1,7 +1,6 @@
 ---
 title: User Agent Accessibility Guidelines (UAAG) Overview
 permalink: /standards-guidelines/uaag/
-redirect_from: /
 layout: default
 ---
 
