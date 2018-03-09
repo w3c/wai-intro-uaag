@@ -2,5 +2,5 @@
 
 Current Preview:
 
-https://w3c.github.io/wai-intro-uaag/
+https://w3c.github.io/wai-intro-uaag/standards-guidelines/uaag/
 
