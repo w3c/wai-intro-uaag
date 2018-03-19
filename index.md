@@ -2,6 +2,8 @@
 title: User Agent Accessibility Guidelines (UAAG) Overview
 permalink: /standards-guidelines/uaag/
 layout: default
+github:
+  repository: w3c/wai-intro-uaag
 ---
 
 **For Browsers, Media Players, and other "User Agents"**
