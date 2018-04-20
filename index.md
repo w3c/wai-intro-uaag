@@ -1,17 +1,28 @@
 ---
 title: User Agent Accessibility Guidelines (UAAG) Overview
+nav_title: "UAAG Overview"
 permalink: /standards-guidelines/uaag/
 layout: default
 github:
   repository: w3c/wai-intro-uaag
 ---
 
-**For Browsers, Media Players, and other "User Agents"**
+{::nomarkdown}
+{% include box.html type="start" h="2" title="Summary" class="full" %}
+{:/}
 
-Quick links:  [UAAG 2.0 Working Group
-Note](http://www.w3.org/TR/UAAG20/), [UAAG 2.0
-Reference](https://www.w3.org/TR/UAAG20-Reference/), [UAAG 2.0 Mobile
-Examples](https://www.w3.org/TR/2015/NOTE-UAAG20-Reference-20151215/mobile.html)
+@@
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+This page introduces User Agent Accessibility Guidelines (UAAG) **for browsers, media players, and other "user agents**.
+
+Quick links to resources:
+* [UAAG 2.0 Working Group Note](http://www.w3.org/TR/UAAG20/)
+* [UAAG 2.0 Reference](https://www.w3.org/TR/UAAG20-Reference/)
+* [UAAG 2.0 Mobile Examples](https://www.w3.org/TR/2015/NOTE-UAAG20-Reference-20151215/mobile.html)
 
 {::options toc_levels="2" /}
 
