@@ -11,7 +11,7 @@ github:
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This page introduces User Agent Accessibility Guidelines (UAAG) **for browsers, media players, and other "user agents**.
+This page introduces User Agent Accessibility Guidelines (UAAG) **for browsers, media players, and other "user agents"**.
 
 Quick links to resources:
 * [UAAG 2.0 Working Group Note](http://www.w3.org/TR/UAAG20/)
