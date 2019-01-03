@@ -5,6 +5,11 @@ permalink: /standards-guidelines/uaag/
 layout: default
 github:
   repository: w3c/wai-intro-uaag
+  feedbackmail: wai@w3.org
+footer: |
+  <p><strong>Date:</strong> Updated May 2016. First published July 2005.</p>
+  <p><strong>Editors:</strong> Jeanne Spellman, Jim Allan, <a href="http://www.w3.org/People/shawn">Shawn Lawton Henry</a>.</p>
+  <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>) and the User Agent Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/UA/">UAWG</a>).</p>
 ---
 
 {::nomarkdown}
