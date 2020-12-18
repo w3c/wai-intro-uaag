@@ -1,6 +1,1 @@
-# wai-intro-uaag
-
-Current Preview:
-
-https://w3c.github.io/wai-intro-uaag/standards-guidelines/uaag/
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b82e1b4c-1281-4828-8d55-4205c7736010/deploy-status)](https://app.netlify.com/sites/wai-intro-uaag/deploys)
