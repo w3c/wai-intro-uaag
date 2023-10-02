@@ -12,6 +12,7 @@ footer: |
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>) and the User Agent Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/UA/">UAWG</a>).</p>
 ---
 
+
 {::nomarkdown}
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
