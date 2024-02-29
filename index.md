@@ -1,11 +1,33 @@
 ---
+# Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after "#".
+# In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:"
+
 title: User Agent Accessibility Guidelines (UAAG) Overview
 nav_title: "UAAG Overview"
-permalink: /standards-guidelines/uaag/
-layout: default
+lang: en # Change "en" to the translated-language shortcode
+last_updated: 2016-05-01
+
+# translators: # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
+# - name: "Jan Doe"   # Replace Jan Doe with translator name
+# - name: "Jan Doe"   # Replace Jan Doe with name, or delete this line if not multiple translators
+# contributors:
+# - name: "Jan Doe"   # Replace Jan Doe with contributor name, or delete this line if none
+# - name: "Jan Doe"   # Replace Jan Doe with name, or delete this line if not multiple contributors
+
 github:
-  repository: w3c/wai-intro-uaag
-  feedbackmail: wai@w3.org
+    repository: w3c/wai-intro-uaag
+    path: index.md  # Add the language shortcode to the middle of the filename, for example: content/index.fr.md
+
+permalink: /standards-guidelines/uaag/  # Add the language shortcode to the end, with no slash at the end. For example /path/to/file/fr
+ref: /standards-guidelines/uaag/    # Do not change this
+
+layout: default
+feedbackmail: wai@w3.org
+
+# In the footer below:
+# Do not change the dates
+# Translate the other words, including "Date:" and "Editors:"
+# Translate the Working Group name. Leave the Working Group acronym in English.
 footer: |
   <p><strong>Date:</strong> Updated May 2016. First published July 2005.</p>
   <p><strong>Editors:</strong> Jeanne Spellman, Jim Allan, <a href="http://www.w3.org/People/shawn">Shawn Lawton Henry</a>.</p>
@@ -19,7 +41,7 @@ footer: |
 This page introduces User Agent Accessibility Guidelines (UAAG) **for browsers, media players, and other "user agents"**.
 
 Quick links to resources:
-* [UAAG 2.0 Working Group Note](http://www.w3.org/TR/UAAG20/)
+* [UAAG 2.0 Working Group Note](https://www.w3.org/TR/UAAG20/)
 * [UAAG 2.0 Reference](https://www.w3.org/TR/UAAG20-Reference/)
 * [UAAG 2.0 Mobile Examples](https://www.w3.org/TR/2015/NOTE-UAAG20-Reference-20151215/mobile.html)
 
@@ -57,7 +79,7 @@ with disabilities, will benefit from user agents that follow UAAG 2.0.
 UAAG is part of a series of accessibility guidelines, including the Web
 Content Accessibility Guidelines (WCAG WG) and the Authoring Tool
 Accessibility Guidelines (ATAG). [Essential Components of Web
-Accessibility](http://www.w3.org/WAI/intro/components) explains the
+Accessibility](/fundamentals/components/) explains the
 relationship between the different guidelines.
 
 ## Who UAAG is for
@@ -71,14 +93,14 @@ For example:
 
 -   People who want to choose user agents that are more accessible can
     use UAAG to [evaluate user
-    agents](http://www.w3.org/WAI/UA/2001/10/eval)
+    agents](https://www.w3.org/WAI/UA/2001/10/eval)
 -   People who want to encourage their existing user agent developer to
     improve accessibility in future versions can file bugs against UAAG
     or can refer the user agent vendor to UAAG.
 
 ## UAAG 2.0
 
-[UAAG 2.0](http://www.w3.org/TR/UAAG20/) was developed to help make
+[UAAG 2.0](https://www.w3.org/TR/UAAG20/) was developed to help make
 future generations of Web browsers more accessible, to provide
 alternative information based on the users technology and platform, and
 to align with WCAG 2.0 and ATAG 2.0. UAAG 2.0 is complete. It provides
@@ -113,7 +135,7 @@ agent developers who want to build a better user experience for all.
 
 [UAAG 2.0 Reference: Explanations, Examples, and Resources for User
 Agent Accessibility Guidelines
-2.0](http://www.w3.org/TR/UAAG20-Reference/) provides supporting
+2.0](https://www.w3.org/TR/UAAG20-Reference/) provides supporting
 information for those using UAAG 2.0. Each UAAG 2.0 success criterion is
 explained with the intent of the success criterion, examples, additional
 resources, where it is typically implemented and what aspect of the user
@@ -127,26 +149,26 @@ mobile devices.
 
 ## UAAG 1.0
 
-[User Agent Accessibility Guidelines 1.0](http://www.w3.org/TR/UAAG10/)
+[User Agent Accessibility Guidelines 1.0](https://www.w3.org/TR/UAAG10/)
 was approved in December 2002
 
 ## Who develops UAAG
 
 UAAG technical documents are developed by the User Agent Accessibility
-Guidelines Working Group ([UAWG](http://www.w3.org/WAI/UA/)), which is
-part of the World Wide Web Consortium ([W3C](http://www.w3.org)) Web
-Accessibility Initiative ([WAI](http://www.w3.org/WAI/)). For more
+Guidelines Working Group ([UAWG](https://www.w3.org/WAI/UA/)), which is
+part of the World Wide Web Consortium ([W3C](https://www.w3.org)) Web
+Accessibility Initiative ([WAI](https://www.w3.org/WAI/)). For more
 information about the working group, see the [UAWG
-page](http://www.w3.org/WAI/UA/). The UAWG is closed as of January 2016.
+page](https://www.w3.org/WAI/UA/). The UAWG is closed as of January 2016.
 
 [How WAI Develops Accessibility Guidelines through the W3C Process:
 Milestones and Opportunities to
-Contribute](http://www.w3.org/WAI/intro/w3c-process) describes formal
+Contribute](/standards-guidelines/w3c-process/) describes formal
 periods for public review. Opportunities for review and comment of WAI
-documents are announced on the [WAI home page](http://www.w3.org/WAI/)
-and [WAI Interest Group](http://www.w3.org/WAI/IG/) mailing list. An
+documents are announced on the [WAI home page](https://www.w3.org/WAI/)
+and [WAI Interest Group](/about/groups/waiig/) mailing list. An
 email address for sending comments is included in the "Status of this
 Document" section.
 
 Opportunities for contributing to UAAG and other WAI work are introduced
-in [Participating in WAI](http://www.w3.org/WAI/participation).
+in [Participating in WAI](/about/participating/).
