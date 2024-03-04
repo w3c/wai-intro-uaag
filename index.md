@@ -5,7 +5,7 @@
 title: User Agent Accessibility Guidelines (UAAG) Overview
 nav_title: "UAAG Overview"
 lang: en # Change "en" to the translated-language shortcode
-last_updated: 2016-05-01
+last_updated: 2024-03-04
 
 # translators: # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
 # - name: "Jan Doe"   # Replace Jan Doe with translator name
@@ -31,7 +31,7 @@ feedbackmail: wai@w3.org
 footer: |
   <p><strong>Date:</strong> Updated May 2016. First published July 2005.</p>
   <p><strong>Editors:</strong> Jeanne Spellman, Jim Allan, <a href="http://www.w3.org/People/shawn">Shawn Lawton Henry</a>.</p>
-  <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>) and the User Agent Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/UA/">UAWG</a>).</p>
+  <p>Developed with input from the User Agent Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/UA/">UAWG</a>).</p>
 ---
 
 {::nomarkdown}
