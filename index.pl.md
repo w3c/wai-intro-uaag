@@ -2,10 +2,10 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after "#".
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:"
 
-title: User Agent Accessibility Guidelines (UAAG) Overview
-nav_title: "UAAG Overview"
+title: Omówienie Wytycznych dla dostępności programu użytkownika (UAAG)
+nav_title: "Omówienie UAAG"
 lang: pl # Change "en" to the translated-language shortcode
-last_updated: 2024-03-07
+last_updated: 2024-03-08
 
 translators: # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
 - name: "Stefan Wajda"   # Replace Jan Doe with translator name
@@ -29,7 +29,7 @@ feedbackmail: wai@w3.org
 # Translate the other words, including "Date:" and "Editors:"
 # Translate the Working Group name. Leave the Working Group acronym in English.
 footer: |
-  <p><strong>Data:</strong> Updated May 2016. First published July 2005.</p>
+  <p><strong>Data:</strong> Uaktualniono 2016. Pierwsza publikacja w czerwcu 2005.</p>
   <p><strong>Redaktorzy:</strong> Jeanne Spellman, Jim Allan, <a href="http://www.w3.org/People/shawn">Shawn Lawton Henry</a>.</p>
   <p>Opracowane z udziałem Grupy Roboczej ds. Wytycznych dla dostępności programów użytkownika
   (<a href="https://www.w3.org/WAI/UA/">UAWG</a>).</p>
