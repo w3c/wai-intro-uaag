@@ -39,7 +39,7 @@ footer: |
 {% include box.html type="start" h="2" title="Podsumowanie" class="full" %}
 {:/}
 
-Na tej stronie przedstawiono Wytyczne dla dostępności programu użytkownika (UAAG)  **dla przeglądarek, odtwarzaczy multimedialnych i innych „programów użytkownika” **.
+Na tej stronie przedstawiono Wytyczne dla dostępności programu użytkownika (UAAG)  **dla przeglądarek, odtwarzaczy multimedialnych i innych <q>programów użytkownika</q>**.
 
 
 Szybkie łącza do innych materiałów::
