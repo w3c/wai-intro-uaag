@@ -42,7 +42,7 @@ footer: |
 Na tej stronie przedstawiono Wytyczne dla dostępności programu użytkownika (UAAG)  **dla przeglądarek, odtwarzaczy multimedialnych i innych <q>programów użytkownika</q>**.
 
 
-Szybkie łącza do innych materiałów::
+Szybkie łącza do innych materiałów:
 * [UAAG 2.0. Notatka Grupy Roboczej](https://www.w3.org/TR/UAAG20/)
 * [Dokumentacja UAAG](https://www.w3.org/TR/UAAG20-Reference/)
 * [Przykłady urządzeń mobilnych UAAG 2.0 ](https://www.w3.org/TR/2015/NOTE-UAAG20-Reference-20151215/mobile.html)
