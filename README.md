@@ -1,1 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b82e1b4c-1281-4828-8d55-4205c7736010/deploy-status)](https://app.netlify.com/sites/wai-intro-uaag/deploys)
+> [!IMPORTANT]
+> This repository has been archived 2 May 2024.
+>
+> [User Agent Accessibility Guidelines (UAAG) Overview](https://www.w3.org/WAI/standards-guidelines/uaag/) is now edited in the [wai-website](https://github.com/w3c/wai-website) repository.
