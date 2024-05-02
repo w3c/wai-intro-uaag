@@ -77,7 +77,7 @@ disabilities use to meet their requirements). All users, not just users
 with disabilities, will benefit from user agents that follow UAAG 2.0.
 
 UAAG is part of a series of accessibility guidelines, including the Web
-Content Accessibility Guidelines (WCAG WG) and the Authoring Tool
+Content Accessibility Guidelines (WCAG) and the Authoring Tool
 Accessibility Guidelines (ATAG). [Essential Components of Web
 Accessibility](/fundamentals/components/) explains the
 relationship between the different guidelines.
@@ -167,8 +167,7 @@ Contribute](/standards-guidelines/w3c-process/) describes formal
 periods for public review. Opportunities for review and comment of WAI
 documents are announced on the [WAI home page](https://www.w3.org/WAI/)
 and [WAI Interest Group](/about/groups/waiig/) mailing list. An
-email address for sending comments is included in the "Status of this
-Document" section.
+email address for sending comments is included in the [Status of this Document](https://www.w3.org/TR/UAAG20/#status) section in UAAG 2.0.
 
 Opportunities for contributing to UAAG and other WAI work are introduced
 in [Participating in WAI](/about/participating/).
